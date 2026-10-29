@@ -1,0 +1,8 @@
+{
+  "name": "Vanita Math Classes - Student, Fee & Academic Portal",
+  "description": "Vanita Math Classes official portal for 8th, 9th, 10th, +1, and +2 Mathematics coaching, fee records, weekly tests evaluation, and student portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
